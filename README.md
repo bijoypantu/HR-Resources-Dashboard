@@ -57,4 +57,5 @@ This section provides a **bird’s-eye view** of key HR statistics.
 For questions or support, reach out via: 
 
 📩  : bijoypantu176@gmail.com  
-in  : https://www.linkedin.com/in/bijoypantu/
+in![image](https://github.com/user-attachments/assets/322ffb75-36e1-4c2c-aaed-40fe3125649d)
+  : https://www.linkedin.com/in/bijoypantu/
