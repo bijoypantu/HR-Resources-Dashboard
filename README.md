@@ -32,32 +32,36 @@ The income analysis section should focus on salary-related metrics, including:
 - Compare **salaries across different education levels for both genders** to identify any discrepancies or patterns.
 - Present how the **age correlate with the salary** for employees in each department.
 
-![HR  Summary](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/HR%20%20Overview.png?raw=true)
-
 ### 2️⃣ Employee Records View
 - Provide a comprehensive list of all employees with necessary information such as **name, department, position, gender, age, education, and salary**.  
 - Users should be able to **filter the list based on any of the available columns**.
 
-![HR  Details](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/HR%20Details.png?raw=true)
-
 ## 📌Color Reference
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Gray | ![#777777](https://via.placeholder.com/10/777777?text=+) #777777 |
-| White | ![#F5F5F5](https://via.placeholder.com/10/F5F5F5?text=+) #F5F5F5 |
-| Persian Green | ![#03C4A1](https://via.placeholder.com/10/03C4A1?text=+) #03C4A1 |
-| Royal Fuchsuia | ![#C52A87](https://via.placeholder.com/10/C52A87?text=+) #C52A87 |
+| Color           | Hex Code  |
+|---------------|----------|
+| Gray           | `#777777` |
+| White          | `#F5F5F5` |
+| Persian Green  | `#03C4A1` |
+| Royal Fuchsia  | `#C52A87` |
 
+## 📌Dashboard Preview
+#### HR Dashboard - OverView
+![HR  Summary](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/HR%20%20Overview.png?raw=true)
+#### HR Dashboard - Details
+![HR  Details](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/HR%20Details.png?raw=true)
+#### Dashboard Link: https://public.tableau.com/app/profile/bijoy.pantu/viz/HRDashboard_17411079801960/OverviewDashboard/
 
 ## 📌 How to Use the Dashboard
-- Navigate between **Summary View & Employee Records View**.  
+- Navigate between **Summary View & Employee Records View**.
+- Click on **info** to see more information.
 - Use **interactive filters** to refine results based on demographics, salary, and location.
 - Select **specific chart positions** to filter the dashboard accordingly.
 ---
 
 ## 📌 Contact & Support
-For questions or support, reach out via: 
+For questions or support, reach out via:
 
-Email : bijoypantu176@gmail.com  
-linkedin : https://www.linkedin.com/in/bijoypantu/
+📩 : bijoypantu176@gmail.com  
+**in** : https://www.linkedin.com/in/bijoypantu/  
+𝕏 : https://x.com/BijoyPantu
