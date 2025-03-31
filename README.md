@@ -1,4 +1,4 @@
-# HR Dashboard - Tableau Project
+# *HR Dashboard - Tableau Project*
 📊 **Comprehensive HR Analytics Dashboard for Workforce Insights**  
 
 ## 📌 Project Overview
@@ -6,55 +6,58 @@ This Tableau dashboard provides HR professionals with a **data-driven approach**
 
 ---
 
-## 📌 Key Features & Components 
+## 📌 Requirements
 
-### 1️⃣ Summary View (High-Level HR Insights)
-This section provides a **bird’s-eye view** of key HR statistics.  
+### 1️⃣ Summary View
+The summary view should be divided into three main sections: **Overview**, **Demographics**, and **Income Analysis**.
 
-#### 📊 Overview Section
-- Displays **total number of employees** (Active, Hired, and Terminated).  
-- **Hiring and termination trends** over time.  
-- Breakdown of **employee distribution by department**.  
-- Comparison of **employee count between HQ (New York) and branches**.  
-- **Geographical representation** of employees by state and city.  
+#### 📊 **Overview Section**
+The Overview section should provide a snapshot of the overall HR metrics, including:
+- Display the total number of **hired employees**, **active employees**, and **terminated employees**.  
+- Visualize the **total number of hired and terminated employees over the years**.  
+- Present a breakdown of **total employees by department and job titles**. 
+- Compare total employees between **headquarters (HQ) and branches (New York is the HQ)**.
+- Show the **distribution of employees by city and state**.  
 
-#### 📈 Demographics Section
-- **Gender ratio analysis** (Male vs. Female).  
-- **Age group distribution** of employees.  
-- **Education level segmentation** across the workforce.  
-- Correlation between **education level and performance rating**.  
+#### 📈 **Demographics Section**
+The Demographics section should offer insights into the composition of the workforce, including:
+- Present the **gender ratio** in the company.  
+- Visualize the distribution of employees across **age groups** and **education levels**.
+- Show the total number of employees within each **age group**.
+- Show the total number of employees within each **education level**.
+- Present the correlation between employees’s **educational backgrounds** and their **performance ratings**.  
 
-#### 💰 Income Analysis Section
-- **Salary distribution by education level and gender**.  
-- **Correlation between salary and age** for different roles.  
-- **Department-wise salary analysis** to identify income trends.
+#### 💰 **Income Analysis Section**
+The income analysis section should focus on salary-related metrics, including:
+- Compare **salaries across different education levels for both genders** to identify any discrepancies or patterns.
+- Present how the **age correlate with the salary** for employees in each department.
 
 ![HR  Summary](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/HR%20%20Overview.png?raw=true)
 
-### 2️⃣ Employee Records View (Detailed Employee Data)
-- Provides a **searchable and filterable employee database**.  
-- Displays **employee ID, name, department, role, gender, age, education, salary, hire date, and tenure**.  
-- Enables **custom filtering** (e.g., by department, salary range, experience).
+### 2️⃣ Employee Records View
+- Provide a comprehensive list of all employees with necessary information such as **name, department, position, gender, age, education, and salary**.  
+- Users should be able to **filter the list based on any of the available columns**.
 
 ![HR  Details](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/HR%20Details.png?raw=true)
 
+## 📌Color Reference
 
-## 📌 Business Use Cases & Insights 
-✅ **Identify high-turnover departments** to address workforce challenges.  
-✅ **Detect salary discrepancies** across gender and education levels.  
-✅ **Optimize hiring strategies** using department-wise workforce trends.  
-✅ **Monitor employee retention** to enhance HR policies.  
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Gray | ![#777777](https://via.placeholder.com/10/777777?text=+) #777777 |
+| White | ![#F5F5F5](https://via.placeholder.com/10/F5F5F5?text=+) #F5F5F5 |
+| Persian Green | ![#03C4A1](https://via.placeholder.com/10/03C4A1?text=+) #03C4A1 |
+| Royal Fuchsuia | ![#C52A87](https://via.placeholder.com/10/C52A87?text=+) #C52A87 |
 
 
 ## 📌 How to Use the Dashboard
 - Navigate between **Summary View & Employee Records View**.  
-- Use **interactive filters** to refine results based on demographics, salary, and location.  
-- Analyze **salary trends**, **employee tenure**, and **departmental workforce composition**.  
-
+- Use **interactive filters** to refine results based on demographics, salary, and location.
+- Select **specific chart positions** to filter the dashboard accordingly.
 ---
 
 ## 📌 Contact & Support
 For questions or support, reach out via: 
 
-📩  : bijoypantu176@gmail.com  
-in  : https://www.linkedin.com/in/bijoypantu/
+Email : bijoypantu176@gmail.com  
+linkedin : https://www.linkedin.com/in/bijoypantu/
