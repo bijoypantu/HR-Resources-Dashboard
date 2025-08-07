@@ -47,9 +47,9 @@ The income analysis section should focus on salary-related metrics, including:
 
 ## 📌Dashboard Preview
 #### HR Dashboard - OverView
-![HR  Summary](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/HR%20%20Overview.png?raw=true)
+![HR  Summary](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/Icons%20&%20Images/HR%20%20Overview.png?raw=true)
 #### HR Dashboard - Details
-![HR  Details](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/HR%20Details.png?raw=true)
+![HR  Details](https://github.com/bijoypantu/Human-Resources-Dashboard/blob/main/Icons%20&%20Images/HR%20Details.png?raw=true)
 #### Interact With the Dashboard Here : [HR Dashboard](https://public.tableau.com/app/profile/bijoy.pantu/viz/HRDashboard_17411079801960/OverviewDashboard/)
 
 ## 📌 How to Use the Dashboard
